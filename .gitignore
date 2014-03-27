@@ -23,6 +23,7 @@
 .zsh_history
 .zshrc-e
 .vim/.netrwhist
+.lesshst
 
 # Folders
 Applications
