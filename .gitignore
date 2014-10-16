@@ -24,6 +24,30 @@
 .zshrc-e
 .vim/.netrwhist
 .lesshst
+.RSA
+.Xauthority
+.android
+.atom
+.codeintel
+.config
+.cups
+.fontconfig
+.gitignore_global
+.gnupg
+.gtk-bookmarks
+.heroku
+.hgignore_global
+.inkscape-etc
+.ivy2
+.local
+.netrc
+.npm
+.psql_history
+.putty
+.rnd
+.sbt
+.scala_history
+.gitconfig
 
 # Folders
 Applications
@@ -40,3 +64,5 @@ Public
 VirtualBox\ VMs
 development
 git
+Applications (Parallels)
+Calibre Library

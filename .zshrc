@@ -72,3 +72,8 @@ export PATH="/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin"
 
 # ssh
 # export SSH_KEY_PATH="~/.ssh/dsa_id"
+export PATH=/usr/local/bin:$PATH
+if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi
+
+
+export PATH=/Library/TeX/Distributions/.DefaultTeX/Contents/Programs/x86_64:$PATH
